@@ -52,7 +52,7 @@ Link da documentação oficial!
 https://en.bem.info/methodology/quick-start/*/
 
 /*Mobile*/
-@media (min-width: 425px) {
+@media (min-width: 320px) {
     html {
         display: flex;
     }
